@@ -26,7 +26,7 @@ player path/to/directory
 
 ### View options
 
- - '1'..'9' cycle through hardcoded layouts of AI markers
+ - `1`..`9` cycle through hardcoded layouts of AI markers
 
 # Models
 
