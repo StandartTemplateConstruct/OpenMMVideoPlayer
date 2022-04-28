@@ -33,4 +33,3 @@ player path/to/directory
  - https://github.com/open-mmlab/mmediting
  - https://github.com/open-mmlab/mmflow
  - https://github.com/open-mmlab/mmdetection3d
- - 
